@@ -31,5 +31,4 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# Data
-/data
+
